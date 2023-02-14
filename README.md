@@ -1,5 +1,7 @@
 # 🌦️ Weather App
 
+![Banner](https://github.com/jwala-anirudh/Weather-App-JavaScript/blob/master/images/banner.png?raw=true)
+
 Before you host this application, read the following:
 
 1. Client api secrets cannot be hidden by default
